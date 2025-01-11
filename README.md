@@ -41,7 +41,7 @@ I am particularly drawn to roles in **Data Analytics**, **Data Engineering**, an
 
 ## Get in Touch  
 📧 **Email**: malavnaikie@gmail.com 
-💼 **LinkedIn**: [linkedin.com/in/malav-naik](#)  
+💼 **LinkedIn**: [linkedin.com/in/malav-naik](linkedin.com/in/malav-naik)  
 🌐 **Portfolio**: [GitHub Profile](#)  
 
 Thank you for visiting my profile! Let’s connect and collaborate on building impactful data-driven solutions. 
