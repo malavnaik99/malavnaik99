@@ -1,4 +1,6 @@
-# Welcome to My GitHub Portfolio! 👋  
+# Hi, I'm Malav Naik 👋
+
+**Data Analyst & Data Engineer (GenAI) in Dublin, Ireland** · 🌐 [malavnaik99.github.io](https://malavnaik99.github.io) · [Projects](https://malavnaik99.github.io/projects/) · [Blog](https://malavnaik99.github.io/blog/) · [Résumé](https://malavnaik99.github.io/resume/)
 
 ## About Me  
 Hello! I’m **Malav Naik**, a passionate data professional with expertise in **Data Visualization**, **Data Analytics**, and **Data Engineering**. I hold a Master’s degree in **Data Analytics** from the **National College of Ireland**.  
@@ -18,7 +20,12 @@ With a strong foundation in data-driven problem solving and a keen eye for visua
 - **Databases**: PostgreSQL, MongoDB, MySQL  
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow  
 
-## Key Projects  
+## Latest Projects
+- **[Blog automation bot](https://malavnaik99.github.io/projects/blog-automation-bot/)** – publishes my posts to my blog, DEV and LinkedIn only after I approve them on Telegram; runs on GitHub Actions. [Code](https://github.com/malavnaik99/telegram-approval-bots)
+- **[Gmail auto-reply with Telegram approval](https://malavnaik99.github.io/projects/gmail-auto-reply/)** – Claude drafts replies; nothing is sent until I tap ✅. [Code](https://github.com/malavnaik99/telegram-approval-bots)
+- **[Employment Permits 2025 dashboard](https://malavnaik99.github.io/projects/permits-2025/)** – which Irish sectors and employers sponsor work permits, and when.
+
+## Earlier Projects  
 ### 1. **Emissions, Pollution, and Health Metrics Dashboard**  
 - Developed an interactive dashboard analyzing U.S. pollution and health trends from 2000 onward.  
 - Integrated datasets on air quality, cardiovascular health, and state-wise emissions to uncover actionable insights.  
@@ -34,14 +41,11 @@ With a strong foundation in data-driven problem solving and a keen eye for visua
 - Used text processing, Naïve Bayes, and K-Fold Validation for robust performance evaluation.  
 - Tools: Python, NLTK, Scikit-learn.  
 
-## Why I’m Excited About MNCs Like Google 🌍  
-I am inspired by Google’s mission to “organize the world's information and make it universally accessible and useful.” My passion for data aligns with this vision, as I thrive in leveraging data to create innovative solutions that empower decision-making and improve lives.  
-
-I am particularly drawn to roles in **Data Analytics**, **Data Engineering**, and **Visualization**, where I can contribute to meaningful projects at a global scale.  
-
 ## Get in Touch  
-📧 **Email**: malavnaikie@gmail.com 
-💼 **LinkedIn**: linkedin.com/in/malav-naik
-🌐 **Portfolio**: [GitHub Profile](#)  
+📧 **Email**: malavnaikie@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/malav-naik](https://www.linkedin.com/in/malav-naik)  
+🌐 **Website**: [malavnaik99.github.io](https://malavnaik99.github.io)  
+🤗 **Hugging Face**: [huggingface.co/Malavnaik](https://huggingface.co/Malavnaik) · **Kaggle**: [kaggle.com/malavnaik](https://www.kaggle.com/malavnaik)  
+✍️ **Writing**: [DEV](https://dev.to/malavnaik_0381711024683d4) · [Medium](https://medium.com/@malavnaik206)  
 
 Thank you for visiting my profile! Let’s connect and collaborate on building impactful data-driven solutions. 
