@@ -1,6 +1,6 @@
 # Hi, I'm Malav Naik 👋
 
-**Data Analyst & Data Engineer (GenAI) in Dublin, Ireland** · 🌐 [malavnaik99.github.io](https://malavnaik99.github.io) · [Projects](https://malavnaik99.github.io/projects/) · [Blog](https://malavnaik99.github.io/blog/) · [Résumé](https://malavnaik99.github.io/resume/)
+**Data Engineer, GenAI & AI Automation in Dublin, Ireland** · 🌐 [malavnaik.com](https://malavnaik.com) · [Projects](https://malavnaik.com/projects/) · [Blog](https://malavnaik.com/blog/) · [Résumé](https://malavnaik.com/resume/)
 
 ## About Me  
 Hello! I’m **Malav Naik**, a passionate data professional with expertise in **Data Visualization**, **Data Analytics**, and **Data Engineering**. I hold a Master’s degree in **Data Analytics** from the **National College of Ireland**.  
@@ -21,9 +21,9 @@ With a strong foundation in data-driven problem solving and a keen eye for visua
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow  
 
 ## Latest Projects
-- **[Blog automation bot](https://malavnaik99.github.io/projects/blog-automation-bot/)** – publishes my posts to my blog, DEV and LinkedIn only after I approve them on Telegram; runs on GitHub Actions. [Code](https://github.com/malavnaik99/telegram-approval-bots)
-- **[Gmail auto-reply with Telegram approval](https://malavnaik99.github.io/projects/gmail-auto-reply/)** – Claude drafts replies; nothing is sent until I tap ✅. [Code](https://github.com/malavnaik99/telegram-approval-bots)
-- **[Employment Permits 2025 dashboard](https://malavnaik99.github.io/projects/permits-2025/)** – which Irish sectors and employers sponsor work permits, and when.
+- **[Blog automation bot](https://malavnaik.com/projects/blog-automation-bot/)** – publishes my posts to my blog, DEV and LinkedIn only after I approve them on Telegram; runs on GitHub Actions. [Code](https://github.com/malavnaik99/telegram-approval-bots)
+- **[Gmail auto-reply with Telegram approval](https://malavnaik.com/projects/gmail-auto-reply/)** – Claude drafts replies; nothing is sent until I tap ✅. [Code](https://github.com/malavnaik99/telegram-approval-bots)
+- **[Employment Permits 2025 dashboard](https://malavnaik.com/projects/permits-2025/)** – which Irish sectors and employers sponsor work permits, and when.
 
 ## Earlier Projects  
 ### 1. **Emissions, Pollution, and Health Metrics Dashboard**  
@@ -44,7 +44,7 @@ With a strong foundation in data-driven problem solving and a keen eye for visua
 ## Get in Touch  
 📧 **Email**: malavnaikie@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/malav-naik](https://www.linkedin.com/in/malav-naik)  
-🌐 **Website**: [malavnaik99.github.io](https://malavnaik99.github.io)  
+🌐 **Website**: [malavnaik.com](https://malavnaik.com)  
 🤗 **Hugging Face**: [huggingface.co/Malavnaik](https://huggingface.co/Malavnaik) · **Kaggle**: [kaggle.com/malavnaik](https://www.kaggle.com/malavnaik)  
 ✍️ **Writing**: [DEV](https://dev.to/malavnaik_0381711024683d4) · [Medium](https://medium.com/@malavnaik206)  
 
