@@ -14,11 +14,10 @@ With a strong foundation in data-driven problem solving and a keen eye for visua
 - **Machine Learning**: Experience in predictive modeling, classification, clustering, and deploying ML solutions.  
 
 ## Technical Skills  
-- **Programming Languages**: Python, SQL, R  
-- **Visualization Tools**: Tableau, Power BI, Plotly, Matplotlib, Seaborn  
-- **Big Data & Cloud Platforms**: Google Cloud (BigQuery), AWS, Hadoop  
-- **Databases**: PostgreSQL, MongoDB, MySQL  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Data Engineering**: SQL, SQL Server, SSIS (ETL), Azure SQL, PostgreSQL, MongoDB, data modelling, dbt, DuckDB, Parquet, GitHub Actions  
+- **Analytics & BI**: Python, pandas, Power BI, Excel, Plotly, Chart.js  
+- **GenAI & ML**: LLMs, RAG, knowledge graphs, prompt engineering, Claude API, Hugging Face, sentence-transformers, BM25, scikit-learn, PyTorch, DistilBERT, ONNX, transformers.js  
+- **Automation & Web**: Telegram Bot API, Gmail API, DEV API, LinkedIn API, Jekyll, JavaScript, Tailwind CSS, BeautifulSoup  
 
 ## Latest Projects
 - **[Blog automation bot](https://malavnaik.com/projects/blog-automation-bot/)** – publishes my posts to my blog, DEV and LinkedIn only after I approve them on Telegram; runs on GitHub Actions. [Code](https://github.com/malavnaik99/telegram-approval-bots)
