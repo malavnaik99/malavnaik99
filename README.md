@@ -29,22 +29,6 @@ With a strong foundation in data-driven problem solving and a keen eye for visua
 - **[Gmail auto-reply with Telegram approval](https://malavnaik.com/projects/gmail-auto-reply/)** – Claude drafts replies; nothing is sent until I tap ✅. [Code](https://github.com/malavnaik99/telegram-approval-bots)
 - **[Employment Permits 2025 dashboard](https://malavnaik.com/projects/permits-2025/)** – which Irish sectors and employers sponsor work permits, and when.
 
-## Earlier Projects  
-### 1. **Emissions, Pollution, and Health Metrics Dashboard**  
-- Developed an interactive dashboard analyzing U.S. pollution and health trends from 2000 onward.  
-- Integrated datasets on air quality, cardiovascular health, and state-wise emissions to uncover actionable insights.  
-- Tools: Python (Pandas, Plotly, Dash), PostgreSQL, MongoDB.  
-
-### 2. **Hotel Booking Analytics**  
-- Predicted hotel booking cancellations with a **99.96% accuracy** using Random Forests.  
-- Conducted feature engineering, model optimization, and comparative evaluation of machine learning algorithms.  
-- Tools: Python, Scikit-learn, Jupyter Notebook.  
-
-### 3. **Fake News Detection**  
-- Built a classification model achieving **96% accuracy** in detecting fake news.  
-- Used text processing, Naïve Bayes, and K-Fold Validation for robust performance evaluation.  
-- Tools: Python, NLTK, Scikit-learn.  
-
 ## Get in Touch  
 📧 **Email**: malavnaikie@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/malav-naik](https://www.linkedin.com/in/malav-naik)  
