@@ -1,9 +1,9 @@
 # Hi, I'm Malav Naik 👋
 
-**Data Engineer, GenAI & AI Automation in Dublin, Ireland** · 🌐 [malavnaik.com](https://malavnaik.com) · [Projects](https://malavnaik.com/projects/) · [Blog](https://malavnaik.com/blog/) · [Résumé](https://malavnaik.com/resume/)
+**Data, GenAI & AI Automation Engineer · Dublin, Ireland** · 🌐 [malavnaik.com](https://malavnaik.com) · [Projects](https://malavnaik.com/projects/) · [Blog](https://malavnaik.com/blog/) · [Résumé](https://malavnaik.com/resume/)
 
 ## About Me  
-Hello! I’m **Malav Naik**, a passionate data professional with expertise in **Data Visualization**, **Data Analytics**, and **Data Engineering**. I hold a Master’s degree in **Data Analytics** from the **National College of Ireland**.  
+Hello! I’m **Malav Naik**, a **Data, GenAI & AI Automation Engineer** in Dublin with expertise in **Data Visualization**, **Data Analytics**, and **Data Engineering**. I hold a Master’s degree in **Data Analytics** from the **National College of Ireland**.  
 
 With a strong foundation in data-driven problem solving and a keen eye for visual storytelling, I specialize in transforming complex datasets into actionable insights. My goal is to leverage cutting-edge technologies to build scalable solutions that drive impact at global organizations.  
 
