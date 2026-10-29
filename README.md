@@ -11,7 +11,6 @@ With a strong foundation in data-driven problem solving and a keen eye for visua
 - **Data Analytics**: Exploratory data analysis, statistical modeling, and deriving actionable business insights.  
 - **Data Visualization**: Designing impactful dashboards and visual reports using tools like Power BI and Plotly.  
 - **Data Engineering**: Building ETL pipelines, optimizing data workflows, and managing large-scale datasets using SQL, Python, and cloud platforms.  
-- **Machine Learning**: Experience in predictive modeling, classification, clustering, and deploying ML solutions.  
 
 ## Technical Skills  
 - **Data Engineering**: SQL, SQL Server, SSIS (ETL), Azure SQL, PostgreSQL, MongoDB, data modelling, dbt, DuckDB, Parquet, GitHub Actions  
